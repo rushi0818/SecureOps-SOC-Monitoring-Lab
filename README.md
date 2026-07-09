@@ -112,6 +112,7 @@ This project was performed entirely within an isolated, self-owned virtual lab e
 ---
 
 ## 📄 License
+MIT License — free to use, modify, and distribute with attribution.
 
 ## 👤 Author
 
